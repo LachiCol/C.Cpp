@@ -21,7 +21,10 @@
     <ClCompile Include="Hello.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Hello.c">
+    <ClCompile Include="bubble.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Insertion.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
