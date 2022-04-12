@@ -99,9 +99,9 @@ int main(void)
     }
     
   
-    print(DataSet, Length, "[힙 정렬 이전]");
+    print(DataSet, Length, "[before heapSort]");
     HeapSort(DataSet, n);   
-    print(DataSet, Length, "[힙 정렬 이후]");
+    print(DataSet, Length, "[after heapSort]");
 
  
 

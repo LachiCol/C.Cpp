@@ -75,9 +75,9 @@ int main(void)
 		}
 	}
 	
-	print(arr, n, "[병합 정렬 이전]");
+	print(arr, n, "[before mergeSort]");
 	mergeSort(arr, 0, n - 1);
-	print(arr, n, "[병합 정렬 이후]");
+	print(arr, n, "[after mergeSort]");
 
 
 
